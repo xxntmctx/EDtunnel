@@ -6,7 +6,7 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 node_compat = true
 workers_dev = true
-
+UUID = "5829e94d-11e4-4fb4-b76e-165fd5f4e4a3,a0c5c759-c5d4-478f-a5ae-8aaa09b8fb92,5829e94d-11e4-4fb4-b76e-165fd5f4e4a4"
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
 PROXYIP = ""
